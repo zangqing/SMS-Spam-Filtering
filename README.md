@@ -1,4 +1,4 @@
-# Spam-Filtering
+# SMS Spam-Filtering
 
 # Introduction
 This project is my first natural language processing project. The purpose of this study is to optimize a classification model to predict spam or ham (legitimate) SMS text message from the text contents via text mining methods. The data set used in this study is a collection of 5,574 English, real and non-enconded messages, tagged according to being spam or ham (legitimate).  Data wrangling is performed followed by data pre-processing with tokenization and stemming to extract features from text contents to create feature matrix. Each feature appears as the number counts of a word or phrase in each text message. The spam and ham classifiers are created by applying basic
