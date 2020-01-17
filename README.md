@@ -7,4 +7,4 @@ text mining research and how to optimize a classification model to discriminate 
 messages.
 
 # Findings
-Bag of Words model and Bag of Words model with bigram have relatively better performance over TF-IDF model and TF-IDF model with bigram.
+Found that Bag of Words model and Bag of Words model with bigram had relatively better performance over TF-IDF model and TF-IDF model with bigram.
